@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Soham Ghosh!!
 
 
-🚀 **Passionate about**:  Power System Protection, Grid Induced Wildfire Prevention, AI-driven: Decarbonization for Power Systems, 
+🚀 **Passionate about**:  Power System Protection, Grid Induced Wildfire Prevention, AI-driven Decarbonization for Power Systems, 
 
 🔭 **Working on**: Vehicle to Grid Tariff Frameworks, Shapley Value Based Incentive Schemes for Data Centers,
 
