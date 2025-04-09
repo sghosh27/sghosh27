@@ -1,9 +1,11 @@
 ### 👋 Hi, I’m Soham Ghosh!!
 
 
-🚀 **Passionate about**:  Power System Protection, Grid Induced Wildfire Prevention, AI-driven Decarbonization for Power Systems, 
+🚀 **Passionate About**:  Power System Protection, Grid Induced Wildfire Prevention, AI-driven Decarbonization for Power Systems, 
 
-🔭 **Working on**: Vehicle to Grid Tariff Frameworks, Shapley Value Based Incentive Schemes for Data Centers,
+🔭 **Working On**: Vehicle to Grid Tariff Frameworks, Shapley Value Based Incentive Schemes for Data Centers,
+
+👯 **Looking to Collaborate On**: AI Applications in Power Systems, SF6 Alternatives Research, Offshore Wind and Renewable Energy Integration,
 
 📫 **Reach me**: sghosh27@ieee.org.
 <!--
